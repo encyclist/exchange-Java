@@ -1,4 +1,5 @@
-# qbkcaptcha
+# wox插件ExchangeRate 的后台
+**该插件已升级成私钥版，此项目永久作废**
 
 ## 软件架构
 1.  Java：8
